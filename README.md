@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CyberQu33n
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m Self- studying and also pursuing a Masters'degree in CyberSecurity
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Ethical Hacking
+- 🌱 I’m pursuing a Masters'degree in CyberSecurity
 - 📫 How to reach me ...engrchimmy@gmail.com
 
 <!---
